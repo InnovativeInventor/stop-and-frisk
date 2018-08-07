@@ -7,4 +7,4 @@ python3 graph.py [csv file]
 ```
 
 ## Using this data
-Each police department has their own folder with the csv and graph for each year. If you want to use these graphs in your own projects, credit this source by linking to it.
+Each police department has their own folder with the csv and graph for each year. If you want to use these graphs in your own projects, credit this source by linking to it. Please note that mistakes in the data (misfilings) are not corrected, so some genders may appear in race data.
